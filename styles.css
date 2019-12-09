@@ -1,0 +1,17 @@
+body{
+background-color:#e3f6f5;
+font-family: 'Righteous', cursive;
+text-align:center;
+}
+h1{
+color:#272343;
+padding-top:5%;
+text-align:center;
+}
+p{
+padding:2% 10% 2% 10%;
+}
+.fr{
+width:20%;
+}
+
